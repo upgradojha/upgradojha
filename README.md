@@ -161,9 +161,11 @@
 
 <img src="./assets/divider.svg" width="100%" alt="Animated Section Divider" />
 
+
 <!-- ===================================================================== -->
 <!-- 4. FEATURED PROJECTS                                                  -->
 <!-- ===================================================================== -->
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="Projects GIF" /> `03 //` DEPLOYED_MODULES : FEATURED PROJECTS
 
 > **Note:** Replace `[YOUR_REPO_NAME_1]` through `[YOUR_REPO_NAME_4]` below with your exact public repository names on `github.com/upgradojha` to automatically generate live repository cards.
@@ -172,81 +174,85 @@
   <tr>
     <!-- Project Slot 1: AI / RAG / Vector DB -->
     <td width="50%" valign="top">
-      <h3 align="center">🧠 [PLACEHOLDER: AI & RAG Application]</h3>
+      <h3 align="center">🧠 [PLACEHOLDER: AI &amp; RAG Application]</h3>
       <p align="center">
         <a href="https://github.com/upgradojha/[YOUR_REPO_NAME_1]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=[YOUR_REPO_NAME_1]&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=6366f1" width="100%" alt="Project 1 Repository Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&amp;repo=[YOUR_REPO_NAME_1]&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=06b6d4&amp;icon_color=6366f1" width="100%" alt="Project 1 Repository Card" />
         </a>
       </p>
       <p>
-        <b>Overview:</b> <i>[Replace with 1–2 sentences describing your LLM/RAG project, e.g., Semantic document search and Q&A pipeline powered by FastAPI, PostgreSQL, and pgvector.]</i>
+        <b>Overview:</b> <i>[Replace with 1–2 sentences describing your LLM/RAG project, e.g., Semantic document search and Q&amp;A pipeline powered by FastAPI, PostgreSQL, and pgvector.]</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&logo=fastapi&logoColor=10b981" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/pgvector-1e293b?style=flat-square&logo=postgresql&logoColor=6366f1" alt="pgvector" />
-        <img src="https://img.shields.io/badge/RAG-1e293b?style=flat-square&logoColor=f43f5e" alt="RAG" />
+        <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&amp;logo=python&amp;logoColor=38bdf8" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-1e293b?style=flat-square&amp;logo=fastapi&amp;logoColor=10b981" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/pgvector-1e293b?style=flat-square&amp;logo=postgresql&amp;logoColor=6366f1" alt="pgvector" />
+        <img src="https://img.shields.io/badge/RAG-1e293b?style=flat-square&amp;logoColor=f43f5e" alt="RAG" />
       </p>
     </td>
+
     <!-- Project Slot 2: Data Engineering / Cloud Pipelines -->
     <td width="50%" valign="top">
-      <h3 align="center">📊 [PLACEHOLDER: Data Pipeline & Cloud Project]</h3>
+      <h3 align="center">📊 [PLACEHOLDER: Data Pipeline &amp; Cloud Project]</h3>
       <p align="center">
         <a href="https://github.com/upgradojha/[YOUR_REPO_NAME_2]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=[YOUR_REPO_NAME_2]&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=6366f1" width="100%" alt="Project 2 Repository Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&amp;repo=[YOUR_REPO_NAME_2]&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=06b6d4&amp;icon_color=6366f1" width="100%" alt="Project 2 Repository Card" />
         </a>
       </p>
       <p>
         <b>Overview:</b> <i>[Replace with 1–2 sentences describing your data engineering project, e.g., Automated data ingestion and transformation pipeline utilizing Databricks and Amazon S3.]</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Databricks-1e293b?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
-        <img src="https://img.shields.io/badge/AWS_S3-1e293b?style=flat-square&logo=amazons3&logoColor=569A31" alt="AWS S3" />
-        <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
+        <img src="https://img.shields.io/badge/Databricks-1e293b?style=flat-square&amp;logo=databricks&amp;logoColor=FF3621" alt="Databricks" />
+        <img src="https://img.shields.io/badge/AWS_S3-1e293b?style=flat-square&amp;logo=amazons3&amp;logoColor=569A31" alt="AWS S3" />
+        <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&amp;logo=python&amp;logoColor=38bdf8" alt="Python" />
         <img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square" alt="SQL" />
       </p>
     </td>
   </tr>
+
   <tr>
     <!-- Project Slot 3: Full-Stack & Containerized Architecture -->
     <td width="50%" valign="top">
       <h3 align="center">🌐 [PLACEHOLDER: Full-Stack / DevOps Project]</h3>
       <p align="center">
         <a href="https://github.com/upgradojha/[YOUR_REPO_NAME_3]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=[YOUR_REPO_NAME_3]&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=6366f1" width="100%" alt="Project 3 Repository Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&amp;repo=[YOUR_REPO_NAME_3]&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=06b6d4&amp;icon_color=6366f1" width="100%" alt="Project 3 Repository Card" />
         </a>
       </p>
       <p>
         <b>Overview:</b> <i>[Replace with 1–2 sentences describing your web/DevOps project, e.g., Full-stack web application built with React, Node.js, and Express, containerized with Docker Compose on AWS EC2.]</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/AWS_EC2-1e293b?style=flat-square&logo=amazonec2&logoColor=FF9900" alt="AWS EC2" />
+        <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS_EC2-1e293b?style=flat-square&amp;logo=amazonec2&amp;logoColor=FF9900" alt="AWS EC2" />
       </p>
     </td>
+
     <!-- Project Slot 4: Workflow Automation / Backend -->
     <td width="50%" valign="top">
       <h3 align="center">⚡ [PLACEHOLDER: Workflow Automation System]</h3>
       <p align="center">
         <a href="https://github.com/upgradojha/[YOUR_REPO_NAME_4]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=[YOUR_REPO_NAME_4]&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=6366f1" width="100%" alt="Project 4 Repository Card" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&amp;repo=[YOUR_REPO_NAME_4]&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=06b6d4&amp;icon_color=6366f1" width="100%" alt="Project 4 Repository Card" />
         </a>
       </p>
       <p>
         <b>Overview:</b> <i>[Replace with 1–2 sentences describing your automation or backend project, e.g., Multi-step event-driven workflow automation integrating n8n, REST APIs, and MongoDB.]</i>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/n8n-1e293b?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" />
-        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Express.js-1e293b?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js" />
+        <img src="https://img.shields.io/badge/n8n-1e293b?style=flat-square&amp;logo=n8n&amp;logoColor=EA4B71" alt="n8n" />
+        <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Express.js-1e293b?style=flat-square&amp;logo=express&amp;logoColor=ffffff" alt="Express.js" />
       </p>
     </td>
   </tr>
 </table>
 
 <img src="./assets/divider.svg" width="100%" alt="Animated Section Divider" />
+
 
 <!-- ===================================================================== -->
 <!-- 5. GITHUB STATISTICS                                                  -->
