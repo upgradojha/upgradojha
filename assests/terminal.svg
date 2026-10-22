@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 315" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121110" />
+      <stop offset="100%" stop-color="#1E1C1A" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C5B095" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#3D352E" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .text { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-size: 12.2px; fill: #F8F6F2; }
+    .prompt { fill: #D4AF37; font-weight: bold; }
+    .cmd { fill: #C5B095; }
+    .key { fill: #D4AF37; font-weight: 600; }
+    .val { fill: #F8F6F2; }
+    .accent { fill: #C5B095; font-weight: 600; }
+    .muted { fill: #9E9488; font-size: 11px; }
+
+    .line1 { opacity: 0; animation: fadeIn 0.35s ease forwards 0.2s; }
+    .line2 { opacity: 0; animation: fadeIn 0.35s ease forwards 0.7s; }
+    .line3 { opacity: 0; animation: fadeIn 0.35s ease forwards 1.2s; }
+    .line4 { opacity: 0; animation: fadeIn 0.35s ease forwards 1.7s; }
+    .line5 { opacity: 0; animation: fadeIn 0.35s ease forwards 2.2s; }
+    .line6 { opacity: 0; animation: fadeIn 0.35s ease forwards 2.7s; }
+    .line7 { opacity: 0; animation: fadeIn 0.35s ease forwards 3.2s; }
+    .line8 { opacity: 0; animation: fadeIn 0.35s ease forwards 3.7s; }
+
+    .cursor { animation: blink 1s step-end infinite; fill: #D4AF37; }
+    .pulse-dot { animation: pulse 2s infinite ease-in-out; }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Terminal Window Frame -->
+  <rect x="2" y="2" width="506" height="311" rx="12" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2" />
+
+  <!-- Top Bar -->
+  <rect x="3" y="3" width="504" height="34" rx="10" fill="#25221F" />
+  <circle cx="22" cy="20" r="6" fill="#C5B095" />
+  <circle cx="42" cy="20" r="6" fill="#D4AF37" />
+  <circle cx="62" cy="20" r="6" fill="#6E6254" />
+  <text x="255" y="24" text-anchor="middle" class="text muted">prashant@upgradojha: ~/telemetry — zsh</text>
+  <circle cx="485" cy="20" r="4" fill="#D4AF37" class="pulse-dot" />
+
+  <!-- Terminal Output Content -->
+  <g transform="translate(18, 62)">
+    <text x="0" y="0" class="text line1">
+      <tspan class="prompt">➜</tspan> <tspan class="cmd">~</tspan> ./inspect_profile.sh --user=upgradojha
+    </text>
+
+    <text x="0" y="30" class="text line2">
+      <tspan class="key">[IDENTITY]</tspan>   <tspan class="val">Prashant Kumar Ojha (B.Tech CSE)</tspan>
+    </text>
+
+    <text x="0" y="56" class="text line3">
+      <tspan class="key">[DATA_ENG]</tspan>   <tspan class="val">ETL • Pipelines • Pandas • Databricks • S3</tspan>
+    </text>
+
+    <text x="0" y="82" class="text line4">
+      <tspan class="key">[CODE_API]</tspan>   <tspan class="val">C • Python • JS • React • Node • FastAPI</tspan>
+    </text>
+
+    <text x="0" y="108" class="text line5">
+      <tspan class="key">[DATABASES]</tspan>  <tspan class="val">PostgreSQL • SQL • MongoDB • pgvector</tspan>
+    </text>
+
+    <text x="0" y="134" class="text line6">
+      <tspan class="key">[INFRA_OPS]</tspan>  <tspan class="val">Docker • Kubernetes • AWS (EC2/S3) • n8n</tspan>
+    </text>
+
+    <text x="0" y="160" class="text line7">
+      <tspan class="key">[AI_SYSTEMS]</tspan> <tspan class="val">LLMs • RAG Pipelines • Vector Databases</tspan>
+    </text>
+
+    <text x="0" y="194" class="text line8">
+      <tspan class="prompt">➜</tspan> <tspan class="cmd">~</tspan> <tspan class="accent">status: building_and_exploring</tspan>
+    </text>
+    <rect x="242" y="181" width="8" height="15" class="cursor line8" />
+  </g>
+</svg>
