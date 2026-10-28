@@ -200,13 +200,13 @@
     <!-- Card 3: FrameCraft Studio -->
     <td width="50%" align="center" valign="top">
       <h3>🎨 FrameCraft Studio</h3>
-      <a href="https://github.com/upgradojha/FrameCraft-Studio">
+      <a href="https://github.com/upgradojha/Framecraft.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=FrameCraft-Studio&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E" width="100%" alt="FrameCraft Studio Card" />
       </a>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,fastapi,python,sqlite&theme=dark" height="28" alt="FrameCraft Studio Tech Stack" />
       <br/><br/>
-      <a href="https://github.com/upgradojha/FrameCraft-Studio">
+      <a href=https://github.com/upgradojha/Framecraft.git">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="View FrameCraft Studio" />
       </a>
     </td>
