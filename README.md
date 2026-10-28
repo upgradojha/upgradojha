@@ -167,65 +167,143 @@
 <!-- ===================================================================== -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" alt="Projects GIF" /> `03 //` DEPLOYED_MODULES : FEATURED PROJECTS
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="14">
   <tr>
-    <!-- Card 1: CognifyAI -->
-    <td width="50%" align="center" valign="top">
+ <td width="50%" align="center" valign="top">
       <h3>🧠 CognifyAI</h3>
-      <a href="https://github.com/upgradojha/CognifyAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=CognifyAI&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E" width="100%" alt="CognifyAI Card" />
+      <p align="center">
+        <sub><b>Intelligent AI Assistant & Knowledge Processing Platform</b></sub>
+      </p>
+  <a href="https://github.com/upgradojha/CognifyAI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=CognifyAI&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E&border_radius=10&show_description=true" width="100%" alt="CognifyAI Card" />
       </a>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react&theme=dark" height="28" alt="CognifyAI Tech Stack" />
-      <br/><br/>
-      <a href="https://github.com/upgradojha/CognifyAI">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="View CognifyAI" />
-      </a>
+      <!-- Feature & Architecture Badges -->
+   <p align="center">
+        <img src="https://img.shields.io/badge/Engine-AI_Workflows-181715?style=flat-square&logo=openai&logoColor=D4AF37&labelColor=121110" alt="AI Engine" />
+        <img src="https://img.shields.io/badge/API-FastAPI_REST-181715?style=flat-square&logo=fastapi&logoColor=D4AF37&labelColor=121110" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Data-PostgreSQL-181715?style=flat-square&logo=postgresql&logoColor=D4AF37&labelColor=121110" alt="PostgreSQL" />
+      </p>
+      <!-- Tech Stack Icons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/CognifyAI">
+          <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,vite,docker&theme=dark" height="28" alt="CognifyAI Tech Stack" />
+        </a>
+      </p>
+      <!-- Action Buttons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/CognifyAI">
+          <img src="https://img.shields.io/badge/EXPLORE_CODE-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="Explore CognifyAI" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/upgradojha/CognifyAI#readme">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=121110&labelColor=D4AF37" alt="CognifyAI Docs" />
+        </a>
+      </p>
     </td>
-    <!-- Card 2: DataWeave -->
-    <td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
       <h3>📊 DataWeave</h3>
+      <p align="center">
+        <sub><b>Cloud-Native Data Pipeline & Automated ETL Analytics</b></sub>
+      </p>
       <a href="https://github.com/upgradojha/DataWeave">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=DataWeave&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E" width="100%" alt="DataWeave Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=DataWeave&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E&border_radius=10&show_description=true" width="100%" alt="DataWeave Card" />
       </a>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,postgres,aws,docker&theme=dark" height="28" alt="DataWeave Tech Stack" />
-      <br/><br/>
-      <a href="https://github.com/upgradojha/DataWeave">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="View DataWeave" />
-      </a>
+      <!-- Feature & Architecture Badges -->
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pipeline-Automated_ETL-181715?style=flat-square&logo=python&logoColor=D4AF37&labelColor=121110" alt="ETL Pipeline" />
+        <img src="https://img.shields.io/badge/Storage-PostgreSQL-181715?style=flat-square&logo=postgresql&logoColor=D4AF37&labelColor=121110" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Cloud-AWS_%26_Docker-181715?style=flat-square&logo=amazonaws&logoColor=D4AF37&labelColor=121110" alt="AWS Docker" />
+      </p>
+      <!-- Tech Stack Icons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/DataWeave">
+          <img src="https://skillicons.dev/icons?i=python,postgres,aws,docker,linux,git&theme=dark" height="28" alt="DataWeave Tech Stack" />
+        </a>
+      </p>
+      <!-- Action Buttons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/DataWeave">
+          <img src="https://img.shields.io/badge/EXPLORE_CODE-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="Explore DataWeave" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/upgradojha/DataWeave#readme">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=121110&labelColor=D4AF37" alt="DataWeave Docs" />
+        </a>
+      </p>
     </td>
   </tr>
+
   <tr>
-    <!-- Card 3: FrameCraft Studio -->
     <td width="50%" align="center" valign="top">
       <h3>🎨 FrameCraft Studio</h3>
-      <a href="https://github.com/upgradojha/Framecraft.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=FrameCraft-Studio&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E" width="100%" alt="FrameCraft Studio Card" />
+      <p align="center">
+        <sub><b>AI-Powered Social Media Thumbnail & Typography Engine</b></sub>
+      </p>
+      <a href="https://github.com/upgradojha/Framecraft">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=Framecraft&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E&border_radius=10&show_description=true" width="100%" alt="FrameCraft Studio Card" />
       </a>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,fastapi,python,sqlite&theme=dark" height="28" alt="FrameCraft Studio Tech Stack" />
-      <br/><br/>
-      <a href="https://github.com/upgradojha/Framecraft.git">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="View FrameCraft Studio" />
-      </a>
+      <!-- Feature & Architecture Badges -->
+      <p align="center">
+        <img src="https://img.shields.io/badge/OpenAI-gpt--image--1--mini-181715?style=flat-square&logo=openai&logoColor=D4AF37&labelColor=121110" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/Auth_%26_DB-Supabase-181715?style=flat-square&logo=supabase&logoColor=D4AF37&labelColor=121110" alt="Supabase" />
+        <img src="https://img.shields.io/badge/CDN-ImageKit-181715?style=flat-square&logo=icloud&logoColor=D4AF37&labelColor=121110" alt="ImageKit" />
+      </p>
+      <!-- Tech Stack Icons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/Framecraft">
+          <img src="https://skillicons.dev/icons?i=react,vite,fastapi,python,supabase,postgres,docker,nginx,aws&theme=dark" height="28" alt="FrameCraft Studio Tech Stack" />
+        </a>
+      </p>
+      <!-- Action Buttons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/Framecraft">
+          <img src="https://img.shields.io/badge/EXPLORE_CODE-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="Explore FrameCraft" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/upgradojha/Framecraft#system-architecture-mermaid-diagram">
+          <img src="https://img.shields.io/badge/ARCHITECTURE-D4AF37?style=for-the-badge&logo=mermaid&logoColor=121110&labelColor=D4AF37" alt="View Architecture" />
+        </a>
+      </p>
     </td>
-    <!-- Card 4: CloudMsg -->
-    <td width="50%" align="center" valign="top">
+
+
+<td width="50%" align="center" valign="top">
       <h3>☁️ CloudMsg</h3>
+      <p align="center">
+        <sub><b>Containerized Cloud Messaging & Distributed Backend Service</b></sub>
+      </p>
       <a href="https://github.com/upgradojha/CloudMsg">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=CloudMsg&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E" width="100%" alt="CloudMsg Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=upgradojha&repo=CloudMsg&bg_color=181715&title_color=D4AF37&text_color=F8F6F2&icon_color=C5B095&border_color=3D352E&border_radius=10&show_description=true" width="100%" alt="CloudMsg Card" />
       </a>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws&theme=dark" height="28" alt="CloudMsg Tech Stack" />
-      <br/><br/>
-      <a href="https://github.com/upgradojha/CloudMsg">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="View CloudMsg" />
-      </a>
+      <!-- Feature & Architecture Badges -->
+      <p align="center">
+        <img src="https://img.shields.io/badge/Runtime-Node.js_%26_Express-181715?style=flat-square&logo=nodedotjs&logoColor=D4AF37&labelColor=121110" alt="Node Express" />
+        <img src="https://img.shields.io/badge/NoSQL-MongoDB-181715?style=flat-square&logo=mongodb&logoColor=D4AF37&labelColor=121110" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Deploy-Docker_%26_AWS-181715?style=flat-square&logo=docker&logoColor=D4AF37&labelColor=121110" alt="Docker AWS" />
+      </p>
+      <!-- Tech Stack Icons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/CloudMsg">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,aws,nginx&theme=dark" height="28" alt="CloudMsg Tech Stack" />
+        </a>
+      </p>
+      <!-- Action Buttons -->
+      <p align="center">
+        <a href="https://github.com/upgradojha/CloudMsg">
+          <img src="https://img.shields.io/badge/EXPLORE_CODE-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="Explore CloudMsg" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/upgradojha/CloudMsg#readme">
+          <img src="https://img.shields.io/badge/DOCUMENTATION-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=121110&labelColor=D4AF37" alt="CloudMsg Docs" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
-
 <img src="./assets/divider.svg" width="100%" alt="Animated Section Divider" />
 
 <!-- ===================================================================== -->
