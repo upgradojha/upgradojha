@@ -206,7 +206,7 @@
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,fastapi,python,sqlite&theme=dark" height="28" alt="FrameCraft Studio Tech Stack" />
       <br/><br/>
-      <a href=https://github.com/upgradojha/Framecraft.git">
+      <a href="https://github.com/upgradojha/Framecraft.git">
         <img src="https://img.shields.io/badge/VIEW_PROJECT-181715?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=121110" alt="View FrameCraft Studio" />
       </a>
     </td>
